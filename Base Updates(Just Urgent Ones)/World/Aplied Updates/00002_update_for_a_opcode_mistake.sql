@@ -1,0 +1,1 @@
+UPDATE `opcodes` SET `version`=14480 WHERE `version`=0 and `name`='MSG_OPCODE_UNKNOWN';
